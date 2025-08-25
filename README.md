@@ -4,16 +4,10 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/arti-gupta-a452452aa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.instagram.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:yourmail@example.com" target="_blank">
+  <a href="mailto:artilalgaon@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -63,10 +57,7 @@
 <!-- Projects -->
 ## 📂 Projects
 - [Portfolio Website](https://github.com/yourgithubusername/portfolio) - My personal portfolio built with React.
-- [AI Chatbot](https://github.com/yourgithubusername/ai-chatbot) - Chatbot using Python & NLP.
-- [Hackathon Projects](https://github.com/yourgithubusername?tab=repositories&q=hackathon) - Various fun hackathon projects.
 
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" alt="coding-gif" width="300"/>
