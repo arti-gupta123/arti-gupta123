@@ -59,10 +59,6 @@
 - [Portfolio Website](https://github.com/yourgithubusername/portfolio) - My personal portfolio built with React.
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" alt="coding-gif" width="300"/>
-</p>
-
 ---
 
 ⭐️ From [@yourgithubusername](https://github.com/yourgithubusername)
